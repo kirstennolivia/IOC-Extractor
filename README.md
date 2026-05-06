@@ -1,6 +1,6 @@
 # IOC-Extractor
-A Python command-line tool that extracts Indicators of Compromise (IOCs) 
-from clipboard text using regex and exports them to a text file.
+A Python command-line tool that uses regex to extract Indicators of 
+Compromise (IOCs) from clipboard text and exports them to a text file.
 
 
 # Requirements
